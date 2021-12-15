@@ -7,7 +7,7 @@
         "components": [
           {
              "/": "/integrations",
-             "?": { "token": "*", "redirect_uri" : "*" }	
+             "?": { "token": "*", "redirect_uri" : "*" },
              "comment": "Token exchange"
           }
         ]
