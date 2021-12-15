@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "JZ9NFD7EET.com.life360.DeepLinkTestApp",
+        "appID": "77H9WPR5B8.com.life360.DeepLinkTestApp",
         "components": [
           {
              "/": "/integrations",
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "appID": "K4EFV9VQ5Z.com.life360.safetymap",
+        "appID": "JZ9NFD7EET.com.life360.safetymap",
         "components": [
           {
              "/": "/integrations/show-map",
