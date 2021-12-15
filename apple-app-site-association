@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "77H9WPR5B8.com.life360.DeepLinkTestApp",
+        "components": [
+          {
+             "/": "/integrations",
+             "?": { "token": "*", "redirect_uri" : "*" },
+             "comment": "Token exchange"
+          }
+        ]
+      },
+      {
+        "appID": "JZ9NFD7EET.com.life360.safetymap",
+        "components": [
+          {
+             "/": "/integrations/show-map",
+             "comment": "Integrations return uri"
+          }
+        ]
+      }
+    ]
+  }
+}
