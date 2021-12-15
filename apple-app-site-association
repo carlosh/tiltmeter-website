@@ -4,6 +4,7 @@
     "details": [
       {
         "appID": "77H9WPR5B8.com.life360.DeepLinkTestApp",
+        "paths": ["/integrations"],
         "components": [
           {
              "/": "/integrations",
