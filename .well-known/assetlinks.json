@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.life360.android.safetymapqa",
+               "sha256_cert_fingerprints": ["93:E0:0A:2A:0D:89:1B:0B:83:11:BF:74:63:3E:22:AB:62:D3:A3:1A:95:28:AA:BF:15:FA:75:C0:90:07:60:F5"] }
+}]
